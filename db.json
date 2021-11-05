@@ -20,7 +20,7 @@
       "id": 3,
       "title": "Nulla facilisi",
       "description": "Maecenas sem dolor",
-      "rating": 4.8",
+      "rating": "4.8",
       "distance": "7.3",
       "price": 30
     }
