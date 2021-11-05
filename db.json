@@ -2,27 +2,27 @@
   "products": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Lorem ipsum",
+      "description": "Praesent id turpis non",
+      "rating": "2.8",
+      "distance": "6.8",
+      "price": 10
     },    
     {
       "id": 2,
-      "title": "hello2"
-    },    
+      "title": "Phasellus non eleifend",
+      "description": "Donec a mattis nisl",
+      "rating": "3.6",
+      "distance": "8.1",
+      "price": 20
+    }, 
     {
       "id": 3,
-      "title": "hello3"
-    },    
-    {
-      "id": 4,
-      "title": "hello4"
-    },    
-    {
-      "id": 5,
-      "title": "hello5"
-    },    
-    {
-      "id": 6,
-      "title": "hello6"
+      "title": "Nulla facilisi",
+      "description": "Maecenas sem dolor",
+      "rating": 4.8",
+      "distance": "7.3",
+      "price": 30
     }
   ],
   "profile": {
